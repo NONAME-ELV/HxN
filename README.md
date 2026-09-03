@@ -46,65 +46,48 @@
 
 <br>
 
-<!-- Independent Clone Option 1: HTTPS -->
-```bash
-git clone [https://github.com/NONAME-ELV/ELV-Cyberpunk-Filemanager.git](https://github.com/NONAME-ELV/ELV-Cyberpunk-Filemanager.git)
+<div align="center">
+  <p>
+    <!-- Two Independent Clone Buttons -->
+    <a href="https://github.com/NONAME-ELV/ELV-Cyberpunk-Filemanager.git" target="_blank">
+      <img src="https://img.shields.io/badge/Clone_HTTPS-000000?style=for-the-badge&logo=github&logoColor=00ff00&borderColor=00ff00" alt="Clone HTTPS">
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="git@github.com:NONAME-ELV/ELV-Cyberpunk-Filemanager.git" target="_blank">
+      <img src="https://img.shields.io/badge/Clone_SSH-000000?style=for-the-badge&logo=git&logoColor=00ffff&borderColor=00ffff" alt="Clone SSH">
+    </a>
+  </p>
+</div>
 
-<!-- Independent Clone Option 2: SSH -->
-git clone git@github.com:NONAME-ELV/ELV-Cyberpunk-Filemanager.git
+<br>
 
 <!-- Terminal Execution Box -->
 <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; font-family: 'Courier New', Courier, monospace; color: #00ff00; font-size: 13px; line-height: 1.5; box-shadow: 0 0 20px rgba(0, 255, 0, 0.15);">
-<div style="display: flex; align-items: center; border-bottom: 1px solid #30363d; padding-bottom: 8px; margin-bottom: 12px;">
-<span style="height: 12px; width: 12px; background-color: #ff5f56; border-radius: 50%; display: inline-block; margin-right: 6px;"></span>
-<span style="height: 12px; width: 12px; background-color: #ffbd2e; border-radius: 50%; display: inline-block; margin-right: 6px;"></span>
-<span style="height: 12px; width: 12px; background-color: #27c93f; border-radius: 50%; display: inline-block; margin-right: 12px;"></span>
-<span style="color: #8b949e; font-size: 12px;">root@hxn-server:~ (bash)</span>
+  <div style="display: flex; align-items: center; border-bottom: 1px solid #30363d; padding-bottom: 8px; margin-bottom: 12px;">
+    <span style="height: 12px; width: 12px; background-color: #ff5f56; border-radius: 50%; display: inline-block; margin-right: 6px;"></span>
+    <span style="height: 12px; width: 12px; background-color: #ffbd2e; border-radius: 50%; display: inline-block; margin-right: 6px;"></span>
+    <span style="height: 12px; width: 12px; background-color: #27c93f; border-radius: 50%; display: inline-block; margin-right: 12px;"></span>
+    <span style="color: #8b949e; font-size: 12px;">root@hxn-server:~ (bash)</span>
+  </div>
+  <code>
+    <span style="color: #58a6ff;">root@hxn-server</span>:<span style="color: #a5d6ff;">~</span># ./init_connection.sh<br><br>
+    <span style="color: #3fb950;">[+] Bypassing firewall... OK</span><br><br>
+    <span style="color: #3fb950;">[+] Authenticating root access [HxN]... GRANTED</span><br><br>
+    <span style="color: #3fb950;">[+] Loading Exploit Development framework... INITIALIZED</span><br><br>
+    <span style="color: #3fb950;">[+] Establishing secure heartbeat to [ E.L.V ] Core... SYN-ACK RECEIVED</span><br><br>
+    
+    <span style="color: #f85149;">[!] ============================================================ [!]</span><br><br>
+    <span style="color: #f85149;">[!]         SYSTEM COMPROMISED : WELCOME TO HxN TERMINAL         [!]</span><br><br>
+    <span style="color: #f85149;">[!] ============================================================ [!]</span><br><br>
+    
+    <span style="color: #58a6ff;">root@hxn-server</span>:<span style="color: #a5d6ff;">~</span># cat system_profile.txt<br><br>
+    ===================================================================<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚙️ SYSTEM PROFILE & ARCHITECTURE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+    ===================================================================<br>
+    My primary focus lies in the domains of Cybersecurity, Red Teaming, <br>
+    and Exploit Development architecture. My routines range from <br>
+    evaluating failing CVE PoC scripts, to reconstructing them to <br>
+    deliver true positive impacts for Red Team research requirements.<br><br>
+    <span style="color: #00ff00;">_</span>
+  </code>
 </div>
-<code>
-<span style="color: #58a6ff;">root@hxn-server</span>:<span style="color: #a5d6ff;">~</span># ./init_connection.sh
-
-
-<span style="color: #3fb950;">[+] Bypassing firewall... OK</span>
-
-
-<span style="color: #3fb950;">[+] Authenticating root access [HxN]... GRANTED</span>
-
-
-<span style="color: #3fb950;">[+] Loading Exploit Development framework... INITIALIZED</span>
-
-
-<span style="color: #3fb950;">[+] Establishing secure heartbeat to [ E.L.V ] Core... SYN-ACK RECEIVED</span>
-
-
-<span style="color: #f85149;">[!] ============================================================ [!]</span>
-
-
-<span style="color: #f85149;">[!]         SYSTEM COMPROMISED : WELCOME TO HxN TERMINAL         [!]</span>
-
-
-<span style="color: #f85149;">[!] ============================================================ [!]</span>
-
-
-<span style="color: #58a6ff;">root@hxn-server</span>:<span style="color: #a5d6ff;">~</span># cat system_profile.txt
-
-
-===================================================================
-
-                  ⚙️ SYSTEM PROFILE & ARCHITECTURE                  
-
-===================================================================
-
-My primary focus lies in the domains of Cybersecurity, Red Teaming, 
-
-and Exploit Development architecture. My routines range from 
-
-evaluating failing CVE PoC scripts, to reconstructing them to 
-
-deliver true positive impacts for Red Team research requirements.
-
-
-<span style="color: #00ff00;">_</span>
-</code>
-</div>
-
