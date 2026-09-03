@@ -1,4 +1,3 @@
-Syntax yang nyasar (}) di baris clone repository udah dibersihin. Struktur markdown-nya sekarang aman, rapi, dan siap lu <i>deploy</i> tanpa <i>broken parsing</i>:
 <div align="center">
     <img src="https://unexsisted-market.vercel.app/Hx2.png" width="160" height="160" style="border-radius: 50%; border: 2px solid #00ff00; box-shadow: 0 0 15px rgba(0, 255, 0, 0.5);" alt="HxN Profile">
 
@@ -47,9 +46,12 @@ Syntax yang nyasar (}) di baris clone repository udah dibersihin. Struktur markd
 
 <br>
 
-<!-- Standalone Clone Repository Block -->
+<!-- Independent Clone Option 1: HTTPS -->
 ```bash
 git clone [https://github.com/NONAME-ELV/ELV-Cyberpunk-Filemanager.git](https://github.com/NONAME-ELV/ELV-Cyberpunk-Filemanager.git)
+
+<!-- Independent Clone Option 2: SSH -->
+git clone git@github.com:NONAME-ELV/ELV-Cyberpunk-Filemanager.git
 
 <!-- Terminal Execution Box -->
 <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; font-family: 'Courier New', Courier, monospace; color: #00ff00; font-size: 13px; line-height: 1.5; box-shadow: 0 0 20px rgba(0, 255, 0, 0.15);">
