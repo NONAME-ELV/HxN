@@ -43,10 +43,9 @@
      <img src="https://img.shields.io/badge/Education-Research_Mode-000000?style=for-the-badge&logo=coursera&logoColor=00aeff&borderColor=00aeff" alt="Education">
   </p>
 </div>
----
 
 ```[https://github.com/NONAME-ELV/ELV-Cyberpunk-Filemanager.git](https://github.com/NONAME-ELV/ELV-Cyberpunk-Filemanager.git)```
-----
+
 
 ```console
 root@hxn-server:~# git clone 
