@@ -1,9 +1,13 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/NONAME-ELV/HxN/main/1000078989.png" width="160" height="160" style="border-radius: 50%; border: 2px solid #00ff00; box-shadow: 0 0 15px rgba(0, 255, 0, 0.5);" alt="HxN Profile">
 
-  <h1 style="color: #00ff00; text-shadow: 0 0 5px #00ff00;">HxN</h1>
+  <!-- Looping Name SVG (HxN & ELV) -->
+  <p style="margin: 15px 0 5px 0;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=36&amp;pause=1500&amp;color=00FF00&amp;center=true&amp;vCenter=true&amp;width=300&amp;lines=HxN;ELV" alt="HxN & ELV Typing">
+  </p>
 
-  <p style="font-size: 18px; font-weight: bold; font-family: 'Courier New', Courier, monospace; margin: 10px 0;">
+  <!-- Dual-Tone Neon Quote -->
+  <p style="font-size: 16px; font-weight: bold; font-family: 'Courier New', Courier, monospace; margin: 10px 0;">
     <span style="color: #00ffff; text-shadow: 0 0 8px rgba(0, 255, 255, 0.6);">Justru Yg Bener</span> 
     <span style="color: #bf00ff; text-shadow: 0 0 8px rgba(191, 0, 255, 0.6);">Jago Gk Berisik</span>
   </p>
@@ -64,45 +68,29 @@
 
 <br>
 
-<!-- Pure HTML Terminal Box with Fixed ASCII Layout -->
-<div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; font-family: 'Courier New', Courier, monospace; color: #00ff00; font-size: 11px; line-height: 1.3; box-shadow: 0 0 20px rgba(0, 255, 0, 0.15); overflow-x: auto;">
+<!-- Clean Terminal Box -->
+<div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; font-family: 'Courier New', Courier, monospace; color: #00ff00; font-size: 11px; line-height: 1.4; box-shadow: 0 0 20px rgba(0, 255, 0, 0.15); overflow-x: auto;">
   <div style="display: flex; align-items: center; border-bottom: 1px solid #30363d; padding-bottom: 8px; margin-bottom: 12px;">
     <span style="height: 12px; width: 12px; background-color: #ff5f56; border-radius: 50%; display: inline-block; margin-right: 6px;"></span>
     <span style="height: 12px; width: 12px; background-color: #ffbd2e; border-radius: 50%; display: inline-block; margin-right: 6px;"></span>
     <span style="height: 12px; width: 12px; background-color: #27c93f; border-radius: 50%; display: inline-block; margin-right: 12px;"></span>
     <span style="color: #8b949e; font-size: 12px;">root@hxn-server:~ (bash)</span>
   </div>
-  <pre style="margin: 0; color: #00ff00; font-family: inherit; white-space: pre; background: transparent; border: none; overflow-x: auto;">  __    __  ___  ___  _____  ___   
- /&quot; |  | &quot;\|&quot;  &#92;/"  |(&#92;&quot;   &#92;|&quot;  \  
-(:  (__)  :)(&#92;\   &#92;  / |.\\   \    | 
- \/      \/  &#92;&#92;  \/  |: &#92;.   &#92;&#92;  | 
- //  __  &#92;&#92;  /&#92;.  \  |.  \    &#92;. | 
-(:  (  )  :)/  \   \ |    \    \ | 
-  __|  |__/|___&#92;___| &#92;___|&#92;____\) 
-
- _______  ___  ___      ___ 
- /&quot;     &quot;||&quot;  ||&quot;  \    /&quot;  |
-(: ______)||  | &#92;   \  //  / 
- \/    |  |:  |  &#92;&#92;  &#92;/. ./  
- // ___)_  \  |___&#92;.    //   
-(:      &quot;|( &#92;_|:  &#92;&#92;&#92;   /    
- &#92;_______) &#92;_______)&#92;__/  
-
-root@hxn-server:~# ./init_connection.sh
+  <pre style="margin: 0; color: #00ff00; font-family: inherit; white-space: pre; background: transparent; border: none; overflow-x: auto;">root@hxn-server:~# ./init_connection.sh
 
 [+] Bypassing firewall... OK
-[+] Authenticating root access [HxN]... GRANTED
+[+] Authenticating root access [HxN &amp; E.L.V]... GRANTED
 [+] Loading Exploit Development framework... INITIALIZED
 [+] Establishing secure heartbeat to [ E.L.V ] Core... SYN-ACK RECEIVED
 
 [!] ============================================================ [!]
-[!]         SYSTEM COMPROMISED : WELCOME TO HxN TERMINAL         [!]
+[!]      SYSTEM COMPROMISED : HxN &amp; E.L.V CORE SYNCHRONIZED      [!]
 [!] ============================================================ [!]
 
 root@hxn-server:~# cat system_profile.txt
 
 ===================================================================
-                  ⚙️ SYSTEM PROFILE & ARCHITECTURE                  
+                  ⚙️ SYSTEM PROFILE &amp; ARCHITECTURE                  
 ===================================================================
 My primary focus lies in the domains of Cybersecurity, Red Teaming, 
 and Exploit Development architecture. My routines range from 
