@@ -1,14 +1,14 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/NONAME-ELV/HxN/main/1000078989.png" width="160" height="160" style="border-radius: 50%; border: 2px solid #00ff00; box-shadow: 0 0 15px rgba(0, 255, 0, 0.5);" alt="HxN Profile">
 
-  <!-- Looping Name SVG (Cyan Theme) -->
+  <!-- Looping Name SVG (Violet Theme) -->
   <p style="margin: 15px 0 5px 0;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=36&amp;pause=1500&amp;color=00FFFF&amp;center=true&amp;vCenter=true&amp;width=300&amp;lines=HxN;ELV" alt="HxN & ELV Typing">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=36&amp;pause=1500&amp;color=BF00FF&amp;center=true&amp;vCenter=true&amp;width=300&amp;lines=HxN;ELV" alt="HxN & ELV Typing">
   </p>
 
-  <!-- Cyan Neon Quote -->
-  <p style="font-size: 16px; font-weight: bold; font-family: 'Courier New', Courier, monospace; margin: 10px 0;">
-    <span style="color: #00ffff; text-shadow: 0 0 8px rgba(0, 255, 255, 0.6);">Justru Yg Bener Jago Gk Berisik</span>
+  <!-- Typing Quote SVG (Violet Theme) -->
+  <p style="margin: 10px 0;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=16&amp;pause=1500&amp;color=BF00FF&amp;center=true&amp;vCenter=true&amp;width=480&amp;lines=Justru+Yg+Bener+Jago+Gk+Berisik" alt="Quote Typing">
   </p>
   
   <p>
@@ -96,4 +96,3 @@ and Exploit Development architecture. My routines range from
 evaluating failing CVE PoC scripts, to reconstructing them for 
 educational purposes only.</pre>
 </div>
-
