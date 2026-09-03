@@ -4,7 +4,7 @@
   <h1 style="color: #00ff00; text-shadow: 0 0 5px #00ff00;">HxN</h1>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=16&amp;pause=1500&amp;color=00FF00&amp;center=true&amp;vCenter=true&amp;width=450&amp;lines=Justru+Yg+Jago+Gk+Berisik" alt="Typewriter Effect">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=16&amp;pause=1500&amp;color=00FF00&amp;center=true&amp;vCenter=true&amp;width=480&amp;lines=Justru+Yg+Bener+Jago+Gk+Berisik" alt="Typewriter Effect">
   </p>
   
   <p>
@@ -63,15 +63,15 @@
 
 <br>
 
-<!-- Pure HTML Terminal Box with Dual ASCII Art -->
-<div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; font-family: 'Courier New', Courier, monospace; color: #00ff00; font-size: 12px; line-height: 1.4; box-shadow: 0 0 20px rgba(0, 255, 0, 0.15); overflow-x: auto;">
+<!-- Pure HTML Terminal Box with Fixed ASCII Layout -->
+<div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; font-family: 'Courier New', Courier, monospace; color: #00ff00; font-size: 11px; line-height: 1.3; box-shadow: 0 0 20px rgba(0, 255, 0, 0.15); overflow-x: auto;">
   <div style="display: flex; align-items: center; border-bottom: 1px solid #30363d; padding-bottom: 8px; margin-bottom: 12px;">
     <span style="height: 12px; width: 12px; background-color: #ff5f56; border-radius: 50%; display: inline-block; margin-right: 6px;"></span>
     <span style="height: 12px; width: 12px; background-color: #ffbd2e; border-radius: 50%; display: inline-block; margin-right: 6px;"></span>
     <span style="height: 12px; width: 12px; background-color: #27c93f; border-radius: 50%; display: inline-block; margin-right: 12px;"></span>
     <span style="color: #8b949e; font-size: 12px;">root@hxn-server:~ (bash)</span>
   </div>
-  <pre style="margin: 0; color: #00ff00; font-family: inherit; white-space: pre; background: transparent; border: none;">  __    __  ___  ___  _____  ___   
+  <pre style="margin: 0; color: #00ff00; font-family: inherit; white-space: pre; background: transparent; border: none; overflow-x: auto;">  __    __  ___  ___  _____  ___   
  /" |  | "\|"  \/"  |(\"   \|"  \  
 (:  (__)  :)\   \  / |.\\   \    | 
  \/      \/  \\  \/  |: \.   \\  | 
@@ -86,7 +86,7 @@
  // ___)_  \\  |___\.    //   
 (:      "|( \\_|:  \\\   /    
  \_______) \_______)\__/  
-                                   
+
 root@hxn-server:~# ./init_connection.sh
 
 [+] Bypassing firewall... OK
