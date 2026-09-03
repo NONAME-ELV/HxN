@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/HTML5-141414?style=for-the-badge&amp;logo=html5&amp;logoColor=E34F26&amp;borderColor=E34F26" alt="HTML">
     <img src="https://img.shields.io/badge/JavaScript-141414?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E&amp;borderColor=F7DF1E" alt="JavaScript">
     <img src="https://img.shields.io/badge/CSS3-141414?style=for-the-badge&amp;logo=css3&amp;logoColor=1572B6&amp;borderColor=1572B6" alt="CSS">
-    <img src="https://img.shields.io/badge/Bash-141414?style=for-the-badge&amp;logo=gnubash&amp;logoColor=4EAA25&amp;borderColor=4EAA25" alt="Bash">
+    <img src="https://img.shields.io/badge/Bash-141414?style=for-the-badge&amp;logo=gnubash&amp;logoColor=4EAA25&borderColor=4EAA25" alt="Bash">
   </p>
 
   <p>
@@ -47,8 +47,10 @@
 <br>
 
 <div align="center">
+  <h3>📂 ELV-Cyberpunk-Filemanager</h3>
+  <p>Source code repository for core file management interface.</p>
   <p>
-    <!-- Two Independent Clone Buttons -->
+    <!-- Independent Clone Buttons -->
     <a href="https://github.com/NONAME-ELV/ELV-Cyberpunk-Filemanager.git" target="_blank">
       <img src="https://img.shields.io/badge/Clone_HTTPS-000000?style=for-the-badge&amp;logo=github&amp;logoColor=00ff00&amp;borderColor=00ff00" alt="Clone HTTPS">
     </a>
@@ -80,5 +82,4 @@ root@hxn-server:~# cat system_profile.txt
 ===================================================================
 My primary focus lies in the domains of Cybersecurity, Red Teaming, 
 and Exploit Development architecture. My routines range from 
-evaluating failing CVE PoC scripts, to reconstructing them to 
-deliver true positive impacts for Red Team research requirements.
+evaluating failing CVE PoC scripts, to reconstructing them for edutional purpose only.
