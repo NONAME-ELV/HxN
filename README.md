@@ -3,8 +3,9 @@
 
   <h1 style="color: #00ff00; text-shadow: 0 0 5px #00ff00;">HxN</h1>
 
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=16&amp;pause=1500&amp;color=00FF00&amp;center=true&amp;vCenter=true&amp;width=480&amp;lines=Justru+Yg+Bener+Jago+Gk+Berisik" alt="Typewriter Effect">
+  <p style="font-size: 18px; font-weight: bold; font-family: 'Courier New', Courier, monospace; margin: 10px 0;">
+    <span style="color: #00ffff; text-shadow: 0 0 8px rgba(0, 255, 255, 0.6);">Justru Yg Bener</span> 
+    <span style="color: #bf00ff; text-shadow: 0 0 8px rgba(191, 0, 255, 0.6);">Jago Gk Berisik</span>
   </p>
   
   <p>
@@ -72,20 +73,20 @@
     <span style="color: #8b949e; font-size: 12px;">root@hxn-server:~ (bash)</span>
   </div>
   <pre style="margin: 0; color: #00ff00; font-family: inherit; white-space: pre; background: transparent; border: none; overflow-x: auto;">  __    __  ___  ___  _____  ___   
- /" |  | "\|"  \/"  |(\"   \|"  \  
-(:  (__)  :)\   \  / |.\\   \    | 
- \/      \/  \\  \/  |: \.   \\  | 
- //  __  \\  /\.  \  |.  \    \. | 
+ /&quot; |  | &quot;\|&quot;  &#92;/"  |(&#92;&quot;   &#92;|&quot;  \  
+(:  (__)  :)(&#92;\   &#92;  / |.\\   \    | 
+ \/      \/  &#92;&#92;  \/  |: &#92;.   &#92;&#92;  | 
+ //  __  &#92;&#92;  /&#92;.  \  |.  \    &#92;. | 
 (:  (  )  :)/  \   \ |    \    \ | 
- \__|  |__/|___/\___| \___|\____\) 
+  __|  |__/|___&#92;___| &#92;___|&#92;____\) 
 
  _______  ___  ___      ___ 
- /"     "||"  ||"  \    /"  |
-(: ______)||  | \   \  //  / 
- \/    |  |:  |  \\  \/. ./  
- // ___)_  \\  |___\.    //   
-(:      "|( \\_|:  \\\   /    
- \_______) \_______)\__/  
+ /&quot;     &quot;||&quot;  ||&quot;  \    /&quot;  |
+(: ______)||  | &#92;   \  //  / 
+ \/    |  |:  |  &#92;&#92;  &#92;/. ./  
+ // ___)_  \  |___&#92;.    //   
+(:      &quot;|( &#92;_|:  &#92;&#92;&#92;   /    
+ &#92;_______) &#92;_______)&#92;__/  
 
 root@hxn-server:~# ./init_connection.sh
 
