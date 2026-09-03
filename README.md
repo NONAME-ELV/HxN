@@ -44,7 +44,15 @@
   </p>
 </div>
 
-```[https://github.com/NONAME-ELV/ELV-Cyberpunk-Filemanager.git](https://github.com/NONAME-ELV/ELV-Cyberpunk-Filemanager.git)```
+<br>
+
+<!-- Standalone Clone Repository Block -->
+```gitclone
+[https://github.com/NONAME-ELV/ELV-Cyberpunk-Filemanager.git](https://github.com/NONAME-ELV/ELV-Cyberpunk-Filemanager.git)
+
+
+```gitclone
+[https://github.com/NONAME-ELV/ELV-Cyberpunk-Filemanager.git](https://github.com/NONAME-ELV/ELV-Cyberpunk-Filemanager.git)```
 
 
 ```console
