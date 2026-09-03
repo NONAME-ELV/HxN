@@ -88,9 +88,6 @@
 
 root@hxn-server:~# cat system_profile.txt
 
-===================================================================
-                  ⚙️ SYSTEM PROFILE &amp; ARCHITECTURE                  
-===================================================================
 My primary focus lies in the domains of Cybersecurity, Red Teaming, 
 and Exploit Development architecture. My routines range from 
 evaluating failing CVE PoC scripts, to reconstructing them for 
