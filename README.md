@@ -45,8 +45,10 @@
 </div>
 <br>
 <!-- Standalone Clone Repository Block -->
-```gitclone
+```
+gitclone
 [https://github.com/NONAME-ELV/ELV-Cyberpunk-Filemanager.git]
+
 ```
 
 <!-- Terminal Execution Box -->
