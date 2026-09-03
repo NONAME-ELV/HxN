@@ -1,3 +1,4 @@
+Syntax yang nyasar (}) di baris clone repository udah dibersihin. Struktur markdown-nya sekarang aman, rapi, dan siap lu <i>deploy</i> tanpa <i>broken parsing</i>:
 <div align="center">
     <img src="https://unexsisted-market.vercel.app/Hx2.png" width="160" height="160" style="border-radius: 50%; border: 2px solid #00ff00; box-shadow: 0 0 15px rgba(0, 255, 0, 0.5);" alt="HxN Profile">
 
@@ -43,13 +44,12 @@
      <img src="https://img.shields.io/badge/Education-Research_Mode-000000?style=for-the-badge&logo=coursera&logoColor=00aeff&borderColor=00aeff" alt="Education">
   </p>
 </div>
-<br>
-<!-- Standalone Clone Repository Block -->
-```
-gitclone
-[https://github.com/NONAME-ELV/ELV-Cyberpunk-Filemanager.git]
 
-```
+<br>
+
+<!-- Standalone Clone Repository Block -->
+```bash
+git clone [https://github.com/NONAME-ELV/ELV-Cyberpunk-Filemanager.git](https://github.com/NONAME-ELV/ELV-Cyberpunk-Filemanager.git)
 
 <!-- Terminal Execution Box -->
 <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; font-family: 'Courier New', Courier, monospace; color: #00ff00; font-size: 13px; line-height: 1.5; box-shadow: 0 0 20px rgba(0, 255, 0, 0.15);">
@@ -62,18 +62,24 @@ gitclone
 <code>
 <span style="color: #58a6ff;">root@hxn-server</span>:<span style="color: #a5d6ff;">~</span># ./init_connection.sh
 
+
 <span style="color: #3fb950;">[+] Bypassing firewall... OK</span>
+
 
 <span style="color: #3fb950;">[+] Authenticating root access [HxN]... GRANTED</span>
 
+
 <span style="color: #3fb950;">[+] Loading Exploit Development framework... INITIALIZED</span>
+
 
 <span style="color: #3fb950;">[+] Establishing secure heartbeat to [ E.L.V ] Core... SYN-ACK RECEIVED</span>
 
 
 <span style="color: #f85149;">[!] ============================================================ [!]</span>
 
+
 <span style="color: #f85149;">[!]         SYSTEM COMPROMISED : WELCOME TO HxN TERMINAL         [!]</span>
+
 
 <span style="color: #f85149;">[!] ============================================================ [!]</span>
 
@@ -94,6 +100,7 @@ and Exploit Development architecture. My routines range from
 evaluating failing CVE PoC scripts, to reconstructing them to 
 
 deliver true positive impacts for Red Team research requirements.
+
 
 <span style="color: #00ff00;">_</span>
 </code>
