@@ -47,6 +47,10 @@
 ---
 
 ```console
+root@hxn-server:~# git clone [https://github.com/NONAME-ELV/ELV-Cyberpunk-Filemanager.git](https://github.com/NONAME-ELV/ELV-Cyberpunk-Filemanager.git)
+[+] Initializing repository sync...
+[+] Cloning into 'ELV-Cyberpunk-Filemanager'... DONE
+
 root@hxn-server:~# ./init_connection.sh
 [+] Bypassing firewall... OK
 [+] Authenticating root access... GRANTED
@@ -67,10 +71,3 @@ My primary focus lies in the domains of Cybersecurity, Red Teaming,
 and Exploit Development architecture. My routines range from 
 evaluating failing CVE PoC scripts, to reconstructing them to 
 deliver true positive impacts for Red Team research requirements.
-
-[*] CURRENT ACTIVE PROTOCOLS:
--------------------------------------------------------------------
-[>>] ELV-Filemanager       :         [github.com/NONAME-ELV/ELV-Cyberpunk-Filemanager](https://github.com/NONAME-ELV/ELV-Cyberpunk-Filemanager)
--------------------------------------------------------------------
-
-root@hxn-server:~# _
