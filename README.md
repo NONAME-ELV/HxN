@@ -4,7 +4,7 @@
   <h1 style="color: #00ff00; text-shadow: 0 0 5px #00ff00;">HxN</h1>
 
   <p>
-    <i>"Justru Yg Jago Gk Berisik"</i>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=16&amp;pause=1500&amp;color=00FF00&amp;center=true&amp;vCenter=true&amp;width=450&amp;lines=Justru+Yg+Jago+Gk+Berisik" alt="Typewriter Effect">
   </p>
   
   <p>
@@ -63,42 +63,48 @@
 
 <br>
 
-<!-- Interactive ASCII Terminal Block -->
-<div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; font-family: 'Courier New', Courier, monospace; color: #00ff00; font-size: 12px; line-height: 1.2; box-shadow: 0 0 20px rgba(0, 255, 0, 0.15); overflow-x: auto;">
+<!-- Pure HTML Terminal Box with Dual ASCII Art -->
+<div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; font-family: 'Courier New', Courier, monospace; color: #00ff00; font-size: 12px; line-height: 1.4; box-shadow: 0 0 20px rgba(0, 255, 0, 0.15); overflow-x: auto;">
   <div style="display: flex; align-items: center; border-bottom: 1px solid #30363d; padding-bottom: 8px; margin-bottom: 12px;">
     <span style="height: 12px; width: 12px; background-color: #ff5f56; border-radius: 50%; display: inline-block; margin-right: 6px;"></span>
     <span style="height: 12px; width: 12px; background-color: #ffbd2e; border-radius: 50%; display: inline-block; margin-right: 6px;"></span>
     <span style="height: 12px; width: 12px; background-color: #27c93f; border-radius: 50%; display: inline-block; margin-right: 12px;"></span>
-    <span style="color: #8b949e; font-size: 12px;">root@hxn-server:~ (ascii-stream)</span>
+    <span style="color: #8b949e; font-size: 12px;">root@hxn-server:~ (bash)</span>
   </div>
-  <pre id="ascii-terminal" style="margin: 0; color: #00ff00; font-family: inherit; white-space: pre; background: transparent; border: none;"></pre>
+  <pre style="margin: 0; color: #00ff00; font-family: inherit; white-space: pre; background: transparent; border: none;">  __    __  ___  ___  _____  ___   
+ /" |  | "\|"  \/"  |(\"   \|"  \  
+(:  (__)  :)\   \  / |.\\   \    | 
+ \/      \/  \\  \/  |: \.   \\  | 
+ //  __  \\  /\.  \  |.  \    \. | 
+(:  (  )  :)/  \   \ |    \    \ | 
+ \__|  |__/|___/\___| \___|\____\) 
+
+ _______  ___  ___      ___ 
+ /"     "||"  ||"  \    /"  |
+(: ______)||  | \   \  //  / 
+ \/    |  |:  |  \\  \/. ./  
+ // ___)_  \\  |___\.    //   
+(:      "|( \\_|:  \\\   /    
+ \_______) \_______)\__/  
+                                   
+root@hxn-server:~# ./init_connection.sh
+
+[+] Bypassing firewall... OK
+[+] Authenticating root access [HxN]... GRANTED
+[+] Loading Exploit Development framework... INITIALIZED
+[+] Establishing secure heartbeat to [ E.L.V ] Core... SYN-ACK RECEIVED
+
+[!] ============================================================ [!]
+[!]         SYSTEM COMPROMISED : WELCOME TO HxN TERMINAL         [!]
+[!] ============================================================ [!]
+
+root@hxn-server:~# cat system_profile.txt
+
+===================================================================
+                  ⚙️ SYSTEM PROFILE & ARCHITECTURE                  
+===================================================================
+My primary focus lies in the domains of Cybersecurity, Red Teaming, 
+and Exploit Development architecture. My routines range from 
+evaluating failing CVE PoC scripts, to reconstructing them for 
+educational purposes only.</pre>
 </div>
-
-<script>
-  const frame1 = `  __    __  ___  ___  _____  ___   
- /" |  | "\|"  \\/"  |(\\"   \\|"  \\  
-(:  (__)  :)\\   \\  / |.\\   \\    | 
- \\/      \\/  \\\\  \\/  |: \\.   \\    | 
- //  __  \\\\  /\\.  \\  |.  \\    \\. | 
-(:  (  )  :)/  \\   \\ |    \\    \\ | 
- \\__|  |__/|___/\\___| \\___|\\____\\) `;
-
-  const frame2 = `  _______  ___  ___      ___ 
- /"     "||"  ||"  \\    /"  |
-(: ______)||  | \\   \\  //  / 
- \\/    |  |:  |  \\\\  \\/. ./  
- // ___)_  \\  |___\\.    //   
-(:      "|( \\_|:  \\\\\\   /    
- \\_______) \\_______)\\__/ `;
-
-  let state = false;
-  const target = document.getElementById('ascii-terminal');
-  
-  if (target) {
-    target.textContent = frame1;
-    setInterval(() => {
-      target.textContent = state ? frame1 : frame2;
-      state = !state;
-    }, 1500);
-  }
-</script>
